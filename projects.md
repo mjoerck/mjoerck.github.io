@@ -7,5 +7,8 @@ This is a collection of all my personal open-source projects I have worked on th
 
 ___
 
-### Smart Home
-- [Temperature/Humidity]() MQTT enabled sensor. Still **WIP**, working link is coming soon.
+## Smart Home
+- [Temperature/Humidity]() - MQTT enabled sensor. Still **WIP**, working link is coming soon.
+
+## Scripts
+- [Gmail Cleaner](https://github.com/mjoerck/Gmailcleaner) - A small Google Apps Script which automatically clears out old unwanted emails.
