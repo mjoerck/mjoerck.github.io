@@ -7,7 +7,7 @@ This is a collection of all my personal open-source projects I have worked on th
 
 ___
 
-## <i class="fa fa-home" aria-hidden="true"> Smart Home
+## Smart Home
 - [Temperature/Humidity]() - MQTT enabled sensor. Still **WIP**, working link is coming soon.
 
 ## Scripts
