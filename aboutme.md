@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-<i class="fa fa-code" aria-hidden="true"></i> I enjoy writing code, primarily for my own sake, but I also love sharing it to the world, so may be helped in their coding endeavors. I therefore have a bunch of open-source projects at my [GitHub page](https://github.com/mjoerck), which you should definitely check out.
+I enjoy writing code, primarily for my own sake, but I also love sharing it to the world, so may be helped in their coding endeavors. I therefore have a bunch of open-source projects at my [GitHub page](https://github.com/mjoerck), which you should definitely check out.
 
 I am addicted to biking, photography at any given (and non-given) moment.
 
