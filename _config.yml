@@ -4,7 +4,7 @@
 title: MJOERCK
 
 # Short description of your site
-description: This is where you can recieve updates on my work
+description: Electronics Enthusiast
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,8 +20,9 @@ description: This is where you can recieve updates on my work
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "index.html"
-  About Me: "aboutme"
+  Blog: "/"
+  Projects: "projects"
+  About Me / Contact: "aboutme"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
