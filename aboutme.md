@@ -4,13 +4,9 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I enjoy writing code, primarily for my own sake, but I also love sharing it to the world, so may be helped in their coding endeavors. I therefore have a bunch of open-source projects at my [GitHub page](https://github.com/mjoerck), which you should definitely check out.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am addicted to biking, photography at any given (and non-given) moment.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+# Help funding my electronic projects
+If you want to show your support for any of the open-source projects I devote my time to, here is a link to [my patreon]() - I have not added the link yet, stay tuned.
