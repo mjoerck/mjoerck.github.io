@@ -6,7 +6,13 @@ subtitle: Why you'd want to go on a date with me
 
 I enjoy writing code, primarily for my own sake, but I also love sharing it to the world, so may be helped in their coding endeavors. I therefore have a bunch of open-source projects at my [GitHub page](https://github.com/mjoerck), which you should definitely check out.
 
-I am addicted to biking, photography at any given (and non-given) moment.
+I am addicted to biking, photography at any given (and non-given) moment. If you wish to take a look at my photography you can do so [here](https://mjoerck.com/). I primarily focus on portraits, but I also enjoy travel, street and nature photography.
 
 # Help funding my electronic projects
 If you want to show your support for any of the open-source projects I devote my time to, here is a link to [my patreon]() - I have not added the link yet, stay tuned.
+
+<form action="https://formspree.io/mjoerck@protonmail.com" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
+</form>
