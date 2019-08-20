@@ -16,10 +16,9 @@ Some manufacturers cost of repair are almost the same as or slightly less than t
 While it is actually not very difficult to get started with repairing electronics many people seem to think that it is almost an impossible task. So here are some tips on what you need to get started.
 
 ### What you need to get started with repairing
-
-- 1. [Proper tools](#proper-tools)
-- 2. [A workspace](#a-workspace)
-- 3. [Knowledge](#knowledge)
+1. [Proper tools](#proper-tools)
+2. [A workspace](#a-workspace)
+3. [Knowledge](#knowledge)
 
 The list is not even that long! You can click the links above or scroll to read about the individual parts.
 
