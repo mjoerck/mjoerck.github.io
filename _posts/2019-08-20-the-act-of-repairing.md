@@ -38,7 +38,7 @@ The most important part about repairing is your knowledge, you will need to educ
 
 In no particular order:
 
-- [Ifixit](https://www.ifixit.com/Guide)
+- [Ifixit](https://www.ifixit.com/Guide) - they have an entire part of their website dedicated to repair guides.
 - [Reddit - fixit](https://www.reddit.com/r/fixit/) - there are actually dedicated subreddits for particular devices, but this is a general repair subreddit.
 - [Reddit - AskElectronics](https://www.reddit.com/r/AskElectronics/) - this subreddit is dedicated to electronics.
 
