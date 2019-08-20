@@ -8,7 +8,7 @@ This is a collection of my personal open-source projects that are internet frien
 ___
 
 ## Smart Home
-- [Temperature/Humidity]() - MQTT enabled sensor. Still **WIP**, link is coming soon.
+- [Temperature/Humidity](https://github.com/mjoerck/MQTT-Sensor-Template) - MQTT enabled sensor. Still **WIP**.
 
 ## Scripts
 - [Gmail Cleaner](https://github.com/mjoerck/Gmailcleaner) - A small Google Apps Script which automatically clears out old unwanted emails.
