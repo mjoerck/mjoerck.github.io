@@ -3,7 +3,7 @@ layout: post
 title: The right to repair
 subtitle: And how you can get started
 image: /img/right-to-repair.jpg
-tags: [repairs]
+tags: [Repairs]
 ---
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Electronics_right_to_repair) the right to repair electronics refers to the government legislation that is intended to allow consumers the ability to repair and modify their own consumer electronic devices, where otherwise the manufacturer of such devices require the consumer to use only their offered services.
