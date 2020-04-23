@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to follow me
 ---
 
 I enjoy writing code, primarily for my own sake, but I also love sharing it to the world, so that it may help others in their coding endeavors. I therefore have a bunch of open-source projects at my [GitHub page](https://github.com/mjoerck), which you should definitely check out.
