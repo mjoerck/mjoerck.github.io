@@ -2,6 +2,7 @@
 layout: post
 title: Creating a simple Discord bot
 subtitle: Code included!
+image: /img/discordbot/discord_icon.png
 tags: [coding, DIY, online]
 ---
 
