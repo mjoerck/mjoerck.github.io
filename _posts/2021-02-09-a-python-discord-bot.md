@@ -3,7 +3,7 @@ layout: post
 title: Creating a simple Discord bot
 subtitle: Code included!
 image: /img/discordbot/discord_icon.png
-tags: [coding, DIY, online]
+tags: [Coding, DIY]
 ---
 
 Hello! Welcome to this short post about how I created a Discord bot for a community server (which I moderate). The bot in question has only got one purpose. It must not let anyone send messages in a specific Discord sever channel. The channel is reserved for commands starting with '!'. In other words the bot's job is to delete all messages that do not start with an exclamation mark. Please note that this is not a tutorial, it is meant more like a coding review.

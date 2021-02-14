@@ -2,7 +2,7 @@
 layout: post
 title: First post!
 subtitle: How I am working on cheap smart home automation
-tags: [Smart Home, Automation]
+tags: [Smart Home, DIY, Automation]
 ---
 Hi! And welcome to my GitHub website. This is where you can stay updated on my cool projects and how I am working on simplifying DIY smart homes.
 I am currently working on creating very cheap temperature and humidity sensors which can be connected to openHAB, Home-Assistant.io, Google Home and more services.
