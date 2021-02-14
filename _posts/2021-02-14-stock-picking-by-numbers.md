@@ -23,6 +23,8 @@ Depending on the stock, I usually investigate the metrics and numbers of the sto
 - Next up, I look at the Price-to-Earnings Ratio (P/E ratio), which is useful to indicate whether the company is over- or undervalued. I usually look at companies with P/E ratios under 40; however, this ratio varies a lot depending on the industry and other parameters.
 
 - The Price-to-Book Ratio (P/B ratio)
+
+
 > The price-to-book ratio or P/B ratio measures whether a stock is over or undervalued by comparing the net value (assets - liabilities) of a company to its market capitalization. Essentially, the P/B ratio divides a stock's share price by its book value per share (BVPS). The P/B ratio is a good indication of what investors are willing to pay for each dollar of a company's net value.
 
 > A P/B ratio of 0.95, 1, or 1.1 means the underlying stock is trading at nearly book value. In other words, the P/B ratio is more useful the greater the number differs from 1. To a value-seeking investor, a company that trades for a P/B ratio of 0.5 is attractive because it implies that the market value is one-half of the company's stated book value. Value investors often like to seek out companies with a market value less than its book value in hopes that the market perception turns out to be wrong. By understanding the differences between market value and book value, investors can help pinpoint investment opportunities [^1]. - [Investopedia](https://www.investopedia.com/articles/fundamental-analysis/09/five-must-have-metrics-value-investors.asp)
