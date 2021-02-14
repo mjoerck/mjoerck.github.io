@@ -24,16 +24,18 @@ Depending on the stock, I usually investigate the metrics and numbers of the sto
 
 3. The Price-to-Book Ratio (P/B ratio)
 
-  > The price-to-book ratio or P/B ratio measures whether a stock is over or undervalued by comparing the net value (assets - liabilities) of a company to its market capitalization. Essentially, the P/B ratio divides a stock's share price by its book value per share (BVPS). The P/B ratio is a good indication of what investors are willing to pay for each dollar of a company's net value.
 
-  > A P/B ratio of 0.95, 1, or 1.1 means the underlying stock is trading at nearly book value. In other words, the P/B ratio is more useful the greater the number differs from 1. To a value-seeking investor, a company that trades for a P/B ratio of 0.5 is attractive because it implies that the market value is one-half of the company's stated book value. Value investors often like to seek out companies with a market value less than its book value in hopes that the market perception turns out to be wrong. By understanding the differences between market value and book value, investors can help pinpoint investment opportunities. - [Investopedia](https://www.investopedia.com/articles/fundamental-analysis/09/five-must-have-metrics-value-investors.asp)
+ > The price-to-book ratio or P/B ratio measures whether a stock is over or undervalued by comparing the net value (assets - liabilities) of a company to its market capitalization. Essentially, the P/B ratio divides a stock's share price by its book value per share (BVPS). The P/B ratio is a good indication of what investors are willing to pay for each dollar of a company's net value.
 
-  The above-mentioned explanations are from [Investopedia](https://www.investopedia.com/), a splendid website for newcomers to the world of investing. If the P/B ratio seems solid I move on to the next step.
+ > A P/B ratio of 0.95, 1, or 1.1 means the underlying stock is trading at nearly book value. In other words, the P/B ratio is more useful the greater the number differs from 1. To a value-seeking investor, a company that trades for a P/B ratio of 0.5 is attractive because it implies that the market value is one-half of the company's stated book value. Value investors often like to seek out companies with a market value less than its book value in hopes that the market perception turns out to be wrong. By understanding the differences between market value and book value, investors can help pinpoint investment opportunities. - [Investopedia](https://www.investopedia.com/articles/fundamental-analysis/09/five-must-have-metrics-value-investors.asp)
+
+ The above-mentioned explanations are from [Investopedia](https://www.investopedia.com/), a splendid website for newcomers to the world of investing. If the P/B ratio seems solid I move on to the next step.
+
 
 4. Subsequently, I screen the company's debt by looking at the Debt-to-Equity ratio (D/E ratio). A high D/E ratio shows that the company derives more of its financing from debt relative to equity and vice versa. I dislike companies that has got a lot of debt; however, I do not mind a little bit of debt, especially not if it is a start-up or a medical adventure.  
 
 5. Lastly, I study the company's balance sheet, free cash flow (FCF) and the price/earnings-to-growth (PEG) ratio.
-I will not write anything about point 5 since all of the listed metrics deserve a greater explanation to understand; thus I will leave some links here where you can learn more about said metrics:
+I will not write anything about these here as all of the listed metrics deserve a greater explanation to understand; thus I will leave some links here where you can learn more about said metrics:
 
 - [Balance sheet](https://www.investopedia.com/terms/b/balancesheet.asp#:~:text=A%20balance%20sheet%20is%20a,and%20evaluating%20its%20capital%20structure.)
 - [FCF](https://www.investopedia.com/terms/f/freecashflow.asp)
